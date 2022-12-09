@@ -2,7 +2,7 @@
 
 By Prince Kr Paswan
 
-## [Password generater](https://game-prince.netlify.app/)
+## [Password generater](https://password-generater-random.netlify.app/)
 
 
 ![Completed Website](./p1.png)
